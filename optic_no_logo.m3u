@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pdws66DP/AVA-1.png" group-title="هەواڵەکان",ئاڤا مێدیا
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HdY9Zf1L/rudaw.png" group-title="هەواڵەکان",ڕووداو
+https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+#EXTINF:-1 group-title="وەرزش",Bein Sport 1
+http://h50.baseflow.online/live/918454578001/index.m3u8
+#EXTINF:-1 group-title="وەرزش",Bein Sport 2 HD
+http://h50.baseflow.online/live/69854211/index.m3u8
+#EXTINF:-1 group-title="وەرزش",Bein Sport 3 HD
+http://h50.baseflow.online/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/09qgm4rP/K24.png" group-title="هەواڵەکان",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="هەواڵەکان",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fwSXbJQL/AFRIN.png" group-title="منداڵان",ئافەرین باخچە
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ئاینی",کەناڵی ئامۆژگاری
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 group-title="گشتیەکان",ZED HD
+http://109.71.252.138/Zed/tracks-v1a1/mono.m3u8?token=yusfstaore%40asdasdfadaaafffs
+#EXTINF:-1 group-title="گشتیەکان",ZED HD PLUS
+http://109.71.252.138/Zedhd/tracks-v1a1/mono.m3u8?token=yusfstaore%40asdasdfadaaafffs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FrFMx2bd/NRT4.png" group-title="ئاینی",NRT 4
+http://ewxrgwci.111xyz.xyz:80/live/RV64NXPZ/LBN6AEDB/1260602.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66pKpXJ9/NRTS.png" group-title="وەرزش",NRT SPORT
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nZt2kD8f/WAR.png" group-title="گشتیەکان",WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 group-title="هەواڵەکان",NRT
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pWDLgWn5/c8.png" group-title="هەواڵەکان",Channel 8
+http://supaapp.xyz/live/462738737337/352672622626/429647.ts
+#EXTINF:-1 group-title="Scary",The Bride!
+https://streamer.suaveswallow.box.ca/7612/index.m3u8
+#EXTINF:-1 group-title="Action",Sirāt
+https://streamer.suaveswallow.box.ca/7618/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc0Qc9MH/ktv.png" group-title="هەواڵەکان",KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="هەواڵەکان",KURD CHANNEL
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="منداڵان",زارۆک
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="گشتیەکان",خاک
+https://link.rashaba.com/proxy/khak.php?file=chunklist_w366977998.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VztFGSKz/kirkuk.png" group-title="گشتیەکان",KIRKUK TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="گشتیەکان",کوردماکس (سۆرانی)
+https://stream.kurdmax.tv/app/kurdmax-sorani/chunklist_1_audio_8327920473541395817_llhls.m3u8
+#EXTINF:-1 group-title="گشتیەکان",وڵات
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 group-title="هەواڵەکان",پەیام
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 group-title="فیلمەکان",سپێدە دراما
+https://speda02.site/upload/images/spedadrama.m3u8
+#EXTINF:-1 group-title="منداڵان",ئافەرین
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="وەرزش",ئاڤا سپۆرت
+http://ewxrgwci.111xyz.xyz:80/live/RV64NXPZ/LBN6AEDB/1260602.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/w9NdGkTX/ekurd.png" group-title="گشتیەکان",EURO KURD
+http://baskhd.ddns.net/live/Eurokurd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k7XRYW2S/TRTKURD.png" group-title="گشتیەکان",TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="ئاینی",سۆز (قورئان)
+https://live20.bozztv.com/giatv/giatv-sozquran/sozquran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1PG630Pj/4kurd-1.png" group-title="گشتیەکان",4 KURD
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ئاینی",فەرموودە
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",ژن
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 group-title="هەواڵەکان",کۆمەڵە
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="وەرزش",Bein Sport 1 HD
+http://s3.e-cdn.me/live/Bengamenbukinafaso2026/msvrpi45e1/534831.ts
+#EXTINF:-1 group-title="وەرزش",bein sport 8
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114052.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="وەرزش",MMN Sport
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 group-title="فیلمەکان",باریین (فیلم)
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 group-title="گشتیەکان",میکس کوردی
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",کورد ماکس
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",کورد ماکس شۆو
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",کوردماکس موزیک
+https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QhWP8dGs/ANIMAL.png" group-title="گشتیەکان",Animal Box
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qj4kt2B6/ASTERA.png" group-title="وەرزش",astera sport
+http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore@asdasdfadaaafffs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WsKLGsNG/Barin-quran.jpg" group-title="ئاینی",barin quran
+http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1yGh2Bc1/bnarmov.png" group-title="فیلمەکان",bnar movies
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1 group-title="گشتیەکان",Bnar hd
+http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="گشتیەکان",halabja
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 group-title="ئاینی",komall
+http://109.71.252.138/komal/video.m3u8?token=yusfstaore@asdasdfadaaafffs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pxCNpXHf/NRT2.png" group-title="گشتیەکان",NRT 2 
+https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="گشتیەکان",qallam tv
+http://109.71.252.138/Qalamtv/video.m3u8?token=yusfstaore@asdasdfadaaafffs
+#EXTINF:-1 group-title="وەرزش",Goal Zone
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="گشتیەکان",AVAR TV
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYjfm1TL/AVAS.png" group-title="فیلمەکان",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="منداڵان",TOM AND JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="ئاینی",sada quran
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:-1 group-title="هەواڵەکان",MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",Deryn 
+http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="ئاینی",SHNA 
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KZ0HYK0q/SORAN-1.png" group-title="گشتیەکان",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",qellat
+http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jx3hRN5w/walla-1.png" group-title="گشتیەکان",ALLA 
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-1 group-title="ئاینی",MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
+#EXTINF:-1 group-title="ئاینی",ESRA 1
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/38KbCsDt/essra2-1.png" group-title="ئاینی",ESRA 2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
+#EXTINF:-1 group-title="گشتیەکان",MMN DOCUMENTARY 
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7x19m9wp/MMNM.png" group-title="فیلمەکان",MMN MOVIES
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1 group-title="وەرزش",BEIN SPORT 4
+https://3syrialive.s3.us-east-2.amazonaws.com/bein4/bein4_1080p/index.m3u8
+#EXTINF:-1 group-title="وەرزش",BEIN SPORT 8
+https://3syrialive.s3.us-east-2.amazonaws.com/bein8/bein8_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nFJkFmgm/KIDS.png" group-title="منداڵان",SPI KIDS
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cZCR0MwJ/SOZ.png" group-title="ئاینی",SOZ QURAN
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1myj1tH7/MMNACT.png" group-title="فیلمەکان",MMN ACTION
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k9dpmV2J/MMNSHOW.png" group-title="هەواڵەکان",MMN SHOW
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GdS0dL0X/mmnkid.png" group-title="منداڵان",MMN KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1 group-title="Action",Avatar: Fire and Ash
+http://130.193.166.118/sss/EnglishMovies1/2025/AvatarFireAndAsh-NoSub.mp4
+#EXTINF:-1 group-title="Live TV",.
+http://kurd.ksh.com/iptv.m3u8
+#EXTINF:-1 group-title="وەرزش",Aso Sport
+http://109.71.252.138/Asosport/index.m3u8
+#EXTINF:-1 group-title="وەرزش",Falcon 2
+http://109.71.252.138/Falcon2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/08nP3ZKL/ART.png" group-title="وەرزش",Alwan Sport 1
+http://109.71.252.138/Alwan1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/08nP3ZKL/ART.png" group-title="وەرزش",Alwan Sport 2
+http://109.71.252.138/Alwan2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/08nP3ZKL/ART.png" group-title="وەرزش",Alwan Sport 3
+http://109.71.252.138/Alwan3/index.m3u8
